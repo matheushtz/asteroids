@@ -1,4 +1,4 @@
-# Space Raiders - README
+# Space Raiders
 
 ## Descrição
 
