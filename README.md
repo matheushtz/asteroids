@@ -1,8 +1,8 @@
-# Space Raiders (Asteroids) - README
+# Space Raiders - README
 
 ## Descrição
 
-Space Raiders é um jogo 2D estilo "Asteroids" / shoot 'em up desenvolvido em Python com Pygame como projeto universitário em equipe. O jogador controla uma nave, enfrenta ondas de inimigos, coleta power-ups (vida e bomba) e busca a maior pontuação. O jogo suporta 1 ou 2 jogadores locais, seleção de naves, efeitos visuais (estrelas de fundo, explosões em ripple) e fallback automático para sprites ausentes.
+Space Raiders é um jogo 2D estilo "Space Invaders" / shoot 'em up desenvolvido em Python com Pygame como projeto universitário em equipe. O jogador controla uma nave, enfrenta ondas de inimigos, coleta power-ups (vida e bomba) e busca a maior pontuação. O jogo suporta 1 ou 2 jogadores locais, seleção de naves, efeitos visuais (estrelas de fundo, explosões em ripple) e fallback automático para sprites ausentes.
 
 ## Bibliotecas e módulos
 
@@ -19,7 +19,7 @@ Space Raiders é um jogo 2D estilo "Asteroids" / shoot 'em up desenvolvido em Py
 1. Abra o PowerShell e navegue até a pasta do projeto:
 
 ```powershell
-cd "c:\Users\Matheus\Downloads\python proj\asteroids"
+cd "c:\Users\Matheus\Downloads\python proj\Space Raiders"
 ```
 
 2. (Opcional, recomendado) Crie e ative um ambiente virtual:
@@ -41,12 +41,12 @@ python -m pip install pygame
 No PowerShell (com o venv ativado ou não):
 
 ```powershell
-python asteroids.py
+python spaceraiders.py
 ```
 
 ## Estrutura de arquivos (esperada)
 
-- `asteroids.py` — código fonte principal
+- `spaceraiders.py` — código fonte principal
 - `ships/` — sprites das naves (opcional)
 - `health/` — sprites de vida e barras (opcional)
 - `powerups/` — sprites de power-ups como bomba (opcional)
