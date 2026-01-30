@@ -19,7 +19,7 @@ Space Raiders é um jogo 2D estilo "Space Invaders" / shoot 'em up desenvolvido 
 1. Abra o PowerShell e navegue até a pasta do projeto:
 
 ```powershell
-cd "c:\Users\Matheus\Downloads\python proj\Space Raiders"
+cd "<Diretório da Pasta>\Space Raiders"
 ```
 
 2. (Opcional, recomendado) Crie e ative um ambiente virtual:
