@@ -3,6 +3,7 @@
 ## Descrição
 
 Space Raiders é um jogo 2D estilo "Space Invaders" / shoot 'em up desenvolvido em Python com Pygame como projeto universitário em equipe. O jogador controla uma nave, enfrenta ondas de inimigos, coleta power-ups (vida e bomba) e busca a maior pontuação. O jogo suporta 1 ou 2 jogadores locais, seleção de naves, efeitos visuais (estrelas de fundo, explosões em ripple) e fallback automático para sprites ausentes.
+Projeto feito em colaboração com colegas de turma Thiago "https://github.com/Bygrilinho" e Gilberto.
 
 ## Bibliotecas e módulos
 
