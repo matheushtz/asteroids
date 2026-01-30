@@ -19,7 +19,7 @@ Space Raiders é um jogo 2D estilo "Asteroids" / shoot 'em up desenvolvido em Py
 1. Abra o PowerShell e navegue até a pasta do projeto:
 
 ```powershell
-cd "c:\Users\Matheus\Downloads\python proj\asteroids"
+cd "<Diretório da pasta>\asteroids"
 ```
 
 2. (Opcional, recomendado) Crie e ative um ambiente virtual:
